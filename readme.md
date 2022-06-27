@@ -4,4 +4,8 @@ The python code reads hexadecimal commands in the .dat file, opens a serial port
 
 The selected configuaration is VAR football, with the 4th Referee = master, with an automatic channel selection and the Vokkero noise filter.
 
-A log file is produced in the local directory, specifying the sent messages and the answers. 
+A log file is produced in the local directory, specifying the sent messages and the answers.
+
+## Contributing
+
+We use Pull Requests, the integration branch shall be 'develop'
