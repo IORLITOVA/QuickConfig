@@ -12,4 +12,4 @@ We use Pull Requests, the integration branch shall be 'develop'
 
 ### Versions
 QuickConfig\_1stFullVersionOK.py is a fully working version, all in 1 file. 
-
+QuickCOnfig\_newdictionary.py uses json dictionary and classes. 
