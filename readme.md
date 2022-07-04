@@ -12,4 +12,7 @@ We use Pull Requests, the integration branch shall be 'develop'
 
 ### Versions
 QuickConfig\_1stFullVersionOK.py is a fully working version, all in 1 file. 
+
 QuickCOnfig\_newdictionary.py uses json dictionary and classes. 
+
+To do: Merge hex and ascii loops (find way how to convert conveniently, independent of the user).
